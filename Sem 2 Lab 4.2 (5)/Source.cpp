@@ -34,7 +34,6 @@ void outMas(const vector<int>& mas, int num, string s) {
 }
 
 int main() {
-  setlocale(LC_ALL, "rus");
   int n;
   cout << "Введите число: " << endl << ": ";
   cin >> n;     //Длина множества чисел от 1 до n
